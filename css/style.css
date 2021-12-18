@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background:rgb(248, 194, 175);
+}
+h1{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 50px;;
+}
+.container{
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+.foto{
+    margin-left: 350px;
+}
